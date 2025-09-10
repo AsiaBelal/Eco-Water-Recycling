@@ -49,6 +49,3 @@ The system is **low-cost, energy-efficient, and scalable** — making it ideal f
 - Arduino UNO, LCD 16x2 with I2C, Relays, Sensors (turbidity, EC, ultrasonic)  
 - Wood frame, Fan, Water pump, Tubing  
 
----
-
-## 📂 Repository Files
