@@ -1,4 +1,4 @@
-<h1 align="center">💧 Effective Wastewater Recycling Prototype (202X–202X)</h1>
+<h1 align="center">💧 Effective Wastewater Recycling Prototype </h1>
 <p align="center">
   <b>Low-cost 3-stage water recycling system for sustainable clean water production</b>  
   <br>
